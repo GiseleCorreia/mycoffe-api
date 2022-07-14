@@ -1,14 +1,14 @@
 {
   "coffe": [
     
-      {"id": 1, "title": "Espresso", "value": "36,00", "url": "https://reviewcafe.com.br/wp-content/uploads/2020/08/tipos-de-cafe-1024x705.webp"},
-      {"id": 2, "title": "Cappuccino", "value": "36,00", "url": "hhttps://st2.depositphotos.com/1765561/7393/i/450/depositphotos_73931949-stock-photo-coffe-cup-and-paper-bag.jpg"},
-      {"id": 3, "title": "Irish coffee", "value": "36,00", "url": "https://empaques.probolsas.com/wp-content/uploads/2020/07/doypack-zipper-papel-kraft-con-ventana-empaque-probolsas.webp"},
-      {"id": 4, "title": "Café com leite", "value": "36,00", "url": "hhttps://st2.depositphotos.com/1765561/7393/i/450/depositphotos_73931949-stock-photo-coffe-cup-and-paper-bag.jpg"},
-      {"id": 5, "title": "Macchiato", "value": "36,00", "url": "https://reviewcafe.com.br/wp-content/uploads/2020/08/tipos-de-cafe-1024x705.webp"},
-      {"id": 6, "title": "Mocha", "value": "36,00", "url": "hhttps://st2.depositphotos.com/1765561/7393/i/450/depositphotos_73931949-stock-photo-coffe-cup-and-paper-bag.jpg"},
-      {"id": 7, "title": "Espresso Duplo", "value": "36,00", "url": "https://empaques.probolsas.com/wp-content/uploads/2020/07/doypack-zipper-papel-kraft-con-ventana-empaque-probolsas.webp"},
-      {"id": 8, "title": "Café Latte", "value": "36,00", "url": "https://reviewcafe.com.br/wp-content/uploads/2020/08/tipos-de-cafe-1024x705.webp"},
-      {"id": 9, "title": "Café com Chantilly", "value": "36,00", "url": "hhttps://st2.depositphotos.com/1765561/7393/i/450/depositphotos_73931949-stock-photo-coffe-cup-and-paper-bag.jpg"}
+      {"id": 1, "title": "Espresso", "value": "15,00", "url": "https://reviewcafe.com.br/wp-content/uploads/2020/08/tipos-de-cafe-1024x705.webp"},
+      {"id": 2, "title": "Cappuccino", "value": "15,00", "url": "hhttps://st2.depositphotos.com/1765561/7393/i/450/depositphotos_73931949-stock-photo-coffe-cup-and-paper-bag.jpg"},
+      {"id": 3, "title": "Irish coffee", "value": "15,00", "url": "https://empaques.probolsas.com/wp-content/uploads/2020/07/doypack-zipper-papel-kraft-con-ventana-empaque-probolsas.webp"},
+      {"id": 4, "title": "Café com leite", "value": "15,00", "url": "hhttps://st2.depositphotos.com/1765561/7393/i/450/depositphotos_73931949-stock-photo-coffe-cup-and-paper-bag.jpg"},
+      {"id": 5, "title": "Macchiato", "value": "15,00", "url": "https://reviewcafe.com.br/wp-content/uploads/2020/08/tipos-de-cafe-1024x705.webp"},
+      {"id": 6, "title": "Mocha", "value": "15,00", "url": "hhttps://st2.depositphotos.com/1765561/7393/i/450/depositphotos_73931949-stock-photo-coffe-cup-and-paper-bag.jpg"},
+      {"id": 7, "title": "Espresso Duplo", "value": "15,00", "url": "https://empaques.probolsas.com/wp-content/uploads/2020/07/doypack-zipper-papel-kraft-con-ventana-empaque-probolsas.webp"},
+      {"id": 8, "title": "Café Latte", "value": "15,00", "url": "https://reviewcafe.com.br/wp-content/uploads/2020/08/tipos-de-cafe-1024x705.webp"},
+      {"id": 9, "title": "Café com Chantilly", "value": "15,00", "url": "hhttps://st2.depositphotos.com/1765561/7393/i/450/depositphotos_73931949-stock-photo-coffe-cup-and-paper-bag.jpg"}
      ]
 }
