@@ -8,10 +8,10 @@
       {"id": 5, "title": "Macchiato", "value": "15,00", "image_url": "https://jornalismocolaborativo.com/wp-content/uploads/2014/06/cafe-gourmet.jpg"},
       {"id": 6, "title": "Mocha", "value": "15,00", "image_url": "https://jornalismocolaborativo.com/wp-content/uploads/2014/06/cafe-gourmet.jpg"},
       {"id": 7, "title": "Espresso Duplo", "value": "15,00", "image_url": "https://media.istockphoto.com/photos/refreshing-hot-cup-of-coffee-at-a-cafe-picture-id1358132613?k=20&m=1358132613&s=612x612&w=0&h=GZJ_9Jyn4gzUrad4_pqZPJTsWRcuhKTNXncqw0_9tiI="},
-      {"id": 8, "title": "Café Latte", "value": "15,00", "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcBizXZFhmVQJQx3uzaxukqn_xNr8wSb5Vjg&usqp=CAU"},
+      {"id": 8, "title": "Café Latte", "value": "15,00", "image_url": "https://media.istockphoto.com/photos/cappuccino-picture-id173245886?k=20&m=173245886&s=612x612&w=0&h=j2PJikoXbozOuSCMmVmd8l2U7VuU0HYX4_fpH8lW2QE="},
       {"id": 9, "title": "Café com Chantilly", "value": "15,00", "image_url": "https://jornalismocolaborativo.com/wp-content/uploads/2014/06/cafe-gourmet.jpg"},
       {"id": 10, "title": "Café com Avelã", "value": "15,00", "image_url": "https://media.istockphoto.com/photos/cappuccino-picture-id173245886?k=20&m=173245886&s=612x612&w=0&h=j2PJikoXbozOuSCMmVmd8l2U7VuU0HYX4_fpH8lW2QE="},
-      {"id": 11, "title": "Café com Canela", "value": "15,00", "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcBizXZFhmVQJQx3uzaxukqn_xNr8wSb5Vjg&usqp=CAU"},
-      {"id": 12, "title": "Espresso Panna", "value": "15,00", "image_url": "https://media.istockphoto.com/photos/cup-of-cafe-latte-with-coffee-beans-and-cinnamon-sticks-picture-id505168330?k=20&m=505168330&s=612x612&w=0&h=_InDMERgMkCfoNA-FUfRq0rYleC2xctGmSItIGeD8R4="}
+      {"id": 11, "title": "Café com Canela", "value": "15,00", "image_url": "https://media.istockphoto.com/photos/cappuccino-picture-id173245886?k=20&m=173245886&s=612x612&w=0&h=j2PJikoXbozOuSCMmVmd8l2U7VuU0HYX4_fpH8lW2QE="},
+      {"id": 12, "title": "Espresso Panna", "value": "15,00", "image_url": "https://media.istockphoto.com/photos/cappuccino-picture-id173245886?k=20&m=173245886&s=612x612&w=0&h=j2PJikoXbozOuSCMmVmd8l2U7VuU0HYX4_fpH8lW2QE="}
      ]
 }
